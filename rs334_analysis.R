@@ -1,3 +1,6 @@
+# Note:the file path below reflects my local directory structure. 
+# For reproducibilty, update the path to your own data location 
+
 rs334_data<-read.csv("C:\Users\maria\OneDrive\Desktop\Data bioinfo\1000genomesprojectphase3-PopulationGenotypes-Homo_sapiens_Variation_Population_rs334.csv")
 rs334_data<-read.csv("C:\Users\maria\OneDrive\Desktop\Data bioinfo\1000genomesprojectphase3-PopulationGenotypes-Homo_sapiens_Variation_Population_rs334.csv"")
 rs334_data<-read.csv(""C:\Users\maria\OneDrive\Desktop\Data bioinfo\1000genomesprojectphase3-PopulationGenotypes-Homo_sapiens_Variation_Population_rs334.csv"")
