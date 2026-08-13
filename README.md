@@ -20,8 +20,14 @@ Populations analyzed: MSL (Mende in Sierra Leone), YRI (Yoruba in Nigeria), ESN 
 * West African populations (MSL, YRI, ESN, GWD) have mean A allele frequency of 0.115
 * African Caribbean population (ACB) has A allele frequency of 0.047
 * West African populations have 2.4x higher A allele frequency
+
+## Limitations (& Future Directions)
+LWK (Luhya, Kenya) was included in the dataset as an East African reference population but was not included in the West African or fold-difference calculations. A direct West African vs. Luhya in Kenya comparison is a natural extension of 
+this analysis.
+
 ## Biological Interpretation
 The A allele causes sickle cell disease but provides protection against malaria. West Africa has historically high malaria transmission, which creates a strong natural selection for the sickle trait. African Caribbean populations show lower frequencies likely due to admixture with European and South Asian populations (who lack or have low A allele frequencies).
+
 ## Files
 - rs334_analysis.R - Full R script
 - rs334_allele_frequency_chart.png - Data Visualization 
